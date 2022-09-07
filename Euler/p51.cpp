@@ -10,7 +10,7 @@
 int p51() {
     int prevNumSize = 2;
     list<string> replacePositions = {};
-    for (int i = 101; i < 1000002; i += 2) {
+    for (int i = 101; i < 1000002; i += 2) { // only iterating through odd numbers since an even number cannot be prime
         string iStr = to_string(i);
 
         // every time the num amount of digits increase, save all the possible ways the replace the num of that size

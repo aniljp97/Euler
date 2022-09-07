@@ -5,10 +5,9 @@
 
 #include <iostream>
 
-
 int main()
 {
-    cout << p68();
+    cout << p118() << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

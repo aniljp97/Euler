@@ -33,6 +33,15 @@
     <ClCompile Include="p68.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="p109.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AntiIf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="p118.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="euler.h">

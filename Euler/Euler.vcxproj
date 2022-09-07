@@ -141,8 +141,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AntiIf.cpp" />
     <ClCompile Include="Euler.cpp" />
     <ClCompile Include="MyMethods.cpp" />
+    <ClCompile Include="p109.cpp" />
+    <ClCompile Include="p118.cpp" />
     <ClCompile Include="p51.cpp" />
     <ClCompile Include="p59.cpp" />
     <ClCompile Include="p68.cpp" />
