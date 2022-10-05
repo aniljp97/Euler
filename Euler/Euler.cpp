@@ -7,7 +7,7 @@
 
 int main()
 {
-    cout << p118() << endl;
+    cout << p144() << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
